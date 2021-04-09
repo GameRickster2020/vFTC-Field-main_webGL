@@ -1,0 +1,784 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 65460 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+F:/vFTC-Field-main/vFTC-Field-main
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53048
+Successfully changed project path to: F:/vFTC-Field-main/vFTC-Field-main
+F:/vFTC-Field-main/vFTC-Field-main
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 49.01 ms, found 1 plugins.
+Preloading 1 native plugins for Editor in 2.92 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/vFTC-Field-main/vFTC-Field-main/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3090 (ID=0x2204)
+    Vendor:   
+    VRAM:     24348 MB
+    Driver:   27.21.14.6589
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56232
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001931 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 51.85 ms, found 1 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.954 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001156 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 49.22 ms, found 1 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.818 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Unloading 2853 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 214.2 MB.
+System memory in use after: 214.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3311.
+Total: 2.359900 ms (FindLiveObjects: 0.300400 ms CreateObjectMapping: 0.068000 ms MarkObjects: 1.920700 ms  DeleteObjects: 0.070000 ms)
+
+========================================================================
+Received Import Request.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Light.ttf
+  artifactKey: Guid(2a29e27936eb547458f646f71125b264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Light.ttf using Guid(2a29e27936eb547458f646f71125b264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07dcf6a3cc695c55e8c04be0bef4956a') in 0.085533 seconds
+  Import took 0.089660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Thin.ttf
+  artifactKey: Guid(19a9abb883540be48b75b951a927ae03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Thin.ttf using Guid(19a9abb883540be48b75b951a927ae03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3e6a6c0b138207b1cef9f475a6387c9') in 0.009734 seconds
+  Import took 0.012860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d9fcbcb84b37b887c31e305afb13524') in 0.028456 seconds
+  Import took 0.032121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Crowd Animations/blue team/Materials/Male1_Obj_Packed1_Diffuse.mat
+  artifactKey: Guid(bce2407ff23d9ed4c97af4f60f21bae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/blue team/Materials/Male1_Obj_Packed1_Diffuse.mat using Guid(bce2407ff23d9ed4c97af4f60f21bae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef9d7d057ac4a5ac42dec43c9453fdcb') in 0.008654 seconds
+  Import took 0.012715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/CAD/variable width.fbx
+  artifactKey: Guid(847999e393ac955489f306a44a1deea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CAD/variable width.fbx using Guid(847999e393ac955489f306a44a1deea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86a2487f1a359b1fd1ac7ec61abcb91b') in 0.165945 seconds
+  Import took 0.170687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Materials/MatRobotType-1/Ramp.mat
+  artifactKey: Guid(424e043ba5ab0dc438f93165ba0f46e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/MatRobotType-1/Ramp.mat using Guid(424e043ba5ab0dc438f93165ba0f46e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ded6be98ec758b72542d0f043a326e13') in 0.008248 seconds
+  Import took 0.012126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Crowd Animations/red team/Materials/RED_male_3_obj_Packed0_Diffuse.mat
+  artifactKey: Guid(d5b5bf7ab50d9fd408b6752b2c4e902b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/red team/Materials/RED_male_3_obj_Packed0_Diffuse.mat using Guid(d5b5bf7ab50d9fd408b6752b2c4e902b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c143b3b5a85cc1e4e019843fa4ec0ae0') in 0.008318 seconds
+  Import took 0.012115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Materials/MatRobotType-1/Mec.mat
+  artifactKey: Guid(dc2c11501ce74a94cb9a097a10b1d059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/MatRobotType-1/Mec.mat using Guid(dc2c11501ce74a94cb9a097a10b1d059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0140596fc8e9fbec5d2aee3982453b05') in 0.008028 seconds
+  Import took 0.011541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Materials/MatRobotType-1/Base.mat
+  artifactKey: Guid(4f65d42d25d7c7841b547a95579dd08c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/MatRobotType-1/Base.mat using Guid(4f65d42d25d7c7841b547a95579dd08c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c6da9a8bac0a2e700b38b0554ec6135') in 0.007907 seconds
+  Import took 0.011574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-MediumItalic.ttf
+  artifactKey: Guid(d93c1bc57fdf1ac4dad1bf04fac05464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-MediumItalic.ttf using Guid(d93c1bc57fdf1ac4dad1bf04fac05464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33f0597c020f2bd892b6481ab5d8c14d') in 0.008801 seconds
+  Import took 0.012075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/Crowd Animations/blue team/Materials/Male1_Obj_Packed0_Diffuse.mat
+  artifactKey: Guid(63f82ee49a8b19d4892159af729d053c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/blue team/Materials/Male1_Obj_Packed0_Diffuse.mat using Guid(63f82ee49a8b19d4892159af729d053c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0ee8d60d2d8102b8cbc9e36dbefc2dc') in 0.008418 seconds
+  Import took 0.011976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Crowd Animations/red team/Materials/Female_Red_1_OBJ_Packed1_Diffuse.mat
+  artifactKey: Guid(0d95fe48db082224982b006ee0b47e1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/red team/Materials/Female_Red_1_OBJ_Packed1_Diffuse.mat using Guid(0d95fe48db082224982b006ee0b47e1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dee13bc3651a66d3b23b8864ea01fccb') in 0.009077 seconds
+  Import took 0.012793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/CAD/tiles_Shrinkwrap_1 v3.fbx
+  artifactKey: Guid(79d6de717117a1b44bf0cd5616d009ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CAD/tiles_Shrinkwrap_1 v3.fbx using Guid(79d6de717117a1b44bf0cd5616d009ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ef1d5e177f95a201681b359db3d77e7') in 0.172214 seconds
+  Import took 0.176477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/TerrainLit.mat
+  artifactKey: Guid(594ea882c5a793440b60ff72d896021e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/TerrainLit.mat using Guid(594ea882c5a793440b60ff72d896021e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74be2b513fecd0ba89cb314580cb3746') in 0.009408 seconds
+  Import took 0.013725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/CAD/AndyL_Shrinkwrap_1 v1.fbx
+  artifactKey: Guid(a00400afe8bf0a84f9ed7d99bb38cf98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CAD/AndyL_Shrinkwrap_1 v1.fbx using Guid(a00400afe8bf0a84f9ed7d99bb38cf98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fbafc0998f744e17b7edd1d7b2866c0') in 0.098986 seconds
+  Import took 0.103219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Materials/Opaque(191,191,191).mat
+  artifactKey: Guid(c9a6d1b3c7217cf4caefbc7148a4d74a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Opaque(191,191,191).mat using Guid(c9a6d1b3c7217cf4caefbc7148a4d74a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ae82bc230b502864392be45a42cb7ec') in 0.007987 seconds
+  Import took 0.011605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/Sprite-Unlit-Default.mat
+  artifactKey: Guid(9dfc825aed78fcd4ba02077103263b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/Sprite-Unlit-Default.mat using Guid(9dfc825aed78fcd4ba02077103263b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea658e3edd41ca6a0ef89cd0f5fac5ec') in 0.008666 seconds
+  Import took 0.012242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Crowd Animations/red team/Materials/red_male_1_obj_Packed1_Diffuse.mat
+  artifactKey: Guid(caf7cfc5388927f458edde86a3e35374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/red team/Materials/red_male_1_obj_Packed1_Diffuse.mat using Guid(caf7cfc5388927f458edde86a3e35374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1194c8287b6fbf6da0d15f86bef703b') in 0.008101 seconds
+  Import took 0.011835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/SimpleLit.mat
+  artifactKey: Guid(6a1143ee683302f4aa628c052723efc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/SimpleLit.mat using Guid(6a1143ee683302f4aa628c052723efc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52037253107568fdd07cfd024cacc290') in 0.040265 seconds
+  Import took 0.044301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4537c845667f4fa7a13ced69bf8f583b') in 0.025572 seconds
+  Import took 0.029607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Boogaloo-Regular.ttf
+  artifactKey: Guid(67e78446e08de2d42b84fd13335d353e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Boogaloo-Regular.ttf using Guid(67e78446e08de2d42b84fd13335d353e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b004f2d412848a060c0bf67f874ce91c') in 0.008254 seconds
+  Import took 0.012213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Black.ttf
+  artifactKey: Guid(1062c701058745940ae5dca6219c64c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Black.ttf using Guid(1062c701058745940ae5dca6219c64c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84c2e1759a192262d9346b855ab340e1') in 0.008538 seconds
+  Import took 0.012088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9f838aa9920f0a87f0d9c9c00e166a9') in 0.026990 seconds
+  Import took 0.031011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Crowd Animations/red team/Materials/Red_male_2_obj_Packed1_Diffuse.mat
+  artifactKey: Guid(298b1409de5a6f542999fa5ce491d667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/red team/Materials/Red_male_2_obj_Packed1_Diffuse.mat using Guid(298b1409de5a6f542999fa5ce491d667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eca74b74d5c2b132503404e28619b65c') in 0.008644 seconds
+  Import took 0.012294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Crowd Animations/red team/Materials/Red_male_4_obj_Packed0_Diffuse.mat
+  artifactKey: Guid(70dfb16e070a55d41870ba207a4c9d9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/red team/Materials/Red_male_4_obj_Packed0_Diffuse.mat using Guid(70dfb16e070a55d41870ba207a4c9d9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adfbb1ce23dde7d7b360b7579c16c7a8') in 0.008910 seconds
+  Import took 0.013009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/CAD/leftwheelshrinkab v1.fbx
+  artifactKey: Guid(c16ef9c93e44b7b4189f60b7be2de68d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CAD/leftwheelshrinkab v1.fbx using Guid(c16ef9c93e44b7b4189f60b7be2de68d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fae5575a47061a08f82b44bb447b1f41') in 0.036461 seconds
+  Import took 0.040323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Regular.ttf
+  artifactKey: Guid(30dc370b164eefc43b95744fc796dad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Regular.ttf using Guid(30dc370b164eefc43b95744fc796dad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca70a9afe58ce6ff15e8a9d5f06bd497') in 0.009023 seconds
+  Import took 0.012516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55a13a993709cc26bcc301f526800d07') in 0.031138 seconds
+  Import took 0.034877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Crowd Animations/blue team/Materials/male_2_obj_Packed1_Diffuse.mat
+  artifactKey: Guid(9e08536dff1384c48acec269de80ed78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/blue team/Materials/male_2_obj_Packed1_Diffuse.mat using Guid(9e08536dff1384c48acec269de80ed78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e36ea994ec798ac9e102ee95f1d19f9') in 0.008554 seconds
+  Import took 0.012367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/CAD/full field/shooter with drivetrain simple v4.fbx
+  artifactKey: Guid(b8a19f15c7e131d42af5bd4c8cc16234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CAD/full field/shooter with drivetrain simple v4.fbx using Guid(b8a19f15c7e131d42af5bd4c8cc16234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4e8ed82efb3c6daf4f0555c641ccfba') in 0.278436 seconds
+  Import took 0.288527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Crowd Animations/blue team/Materials/male_4_obj_Packed1_Diffuse.mat
+  artifactKey: Guid(8a6fef9b4a6e624499557ee6ec9a7951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/blue team/Materials/male_4_obj_Packed1_Diffuse.mat using Guid(8a6fef9b4a6e624499557ee6ec9a7951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '504434ebb04d247fb13916460e00cd9d') in 0.008716 seconds
+  Import took 0.012965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/CAD/right mec wheelshrink ab v1.fbx
+  artifactKey: Guid(f4c4018e24aead2458e2a31cd9f4b3f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CAD/right mec wheelshrink ab v1.fbx using Guid(f4c4018e24aead2458e2a31cd9f4b3f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c130688e9fd341292dcb5dbadee16b99') in 0.026801 seconds
+  Import took 0.030552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/CAD/AndyR_Shrinkwrap_1 v2.fbx
+  artifactKey: Guid(5a9fdb36b34d4bb428fedafde9bc9e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CAD/AndyR_Shrinkwrap_1 v2.fbx using Guid(5a9fdb36b34d4bb428fedafde9bc9e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b378b46a8a135005d0a29f6b26de577a') in 0.026082 seconds
+  Import took 0.030579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Crowd Animations/red team/Materials/Red_male_2_obj_Packed0_Diffuse.mat
+  artifactKey: Guid(0c4eb6c203fc49345a941aca9bd5060d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/red team/Materials/Red_male_2_obj_Packed0_Diffuse.mat using Guid(0c4eb6c203fc49345a941aca9bd5060d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b28534329e5d3d6371ff53d1b371dd0') in 0.008575 seconds
+  Import took 0.013269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Materials/MatRobotType-1/Rollers.mat
+  artifactKey: Guid(c834312fb5058f34dbc4c4d730a39b69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/MatRobotType-1/Rollers.mat using Guid(c834312fb5058f34dbc4c4d730a39b69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc605351cc8df6731183c42e6fb3050c') in 0.008244 seconds
+  Import took 0.012108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat
+  artifactKey: Guid(31321ba15b8f8eb4c954353edc038b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat using Guid(31321ba15b8f8eb4c954353edc038b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba3edffa4c92ac0bfb49391e51f5d258') in 0.008715 seconds
+  Import took 0.012647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Crowd Animations/red team/Materials/red_male_1_obj_Packed0_Diffuse.mat
+  artifactKey: Guid(9819cc43bd0d0cf43a12593b75c97087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/red team/Materials/red_male_1_obj_Packed0_Diffuse.mat using Guid(9819cc43bd0d0cf43a12593b75c97087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84a8230b3aa00c78bc4c203a08837855') in 0.008575 seconds
+  Import took 0.012454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Crowd Animations/red team/Materials/Red_male_4_obj_Packed1_Diffuse.mat
+  artifactKey: Guid(43d547491daac0a4f93bacf156784163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/red team/Materials/Red_male_4_obj_Packed1_Diffuse.mat using Guid(43d547491daac0a4f93bacf156784163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c3684da773f6aa3af377f0dec339360') in 0.008571 seconds
+  Import took 0.012549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Crowd Animations/blue team/Materials/male_3_obj_Packed0_Diffuse.mat
+  artifactKey: Guid(a5ef8ac444f7e514f9fcb01168b66de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/blue team/Materials/male_3_obj_Packed0_Diffuse.mat using Guid(a5ef8ac444f7e514f9fcb01168b66de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e34a2ad961d72a73fe7d4b9fdc71a497') in 0.008561 seconds
+  Import took 0.012323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Fonts/Perfect DOS VGA 437.ttf
+  artifactKey: Guid(74a5091d8707f334b9a5c31ef71a64ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Fonts/Perfect DOS VGA 437.ttf using Guid(74a5091d8707f334b9a5c31ef71a64ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7db3949ca6c8d45ab7c7125a2afc1599') in 0.009365 seconds
+  Import took 0.013523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/Sprite-Lit-Default.mat
+  artifactKey: Guid(a97c105638bdf8b4a8650670310a4cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/Sprite-Lit-Default.mat using Guid(a97c105638bdf8b4a8650670310a4cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d123814914e2697eac270f711e5b871') in 0.007814 seconds
+  Import took 0.011270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/CAD/3604-0014-Omni_Shrinkwrap_1 v1.fbx
+  artifactKey: Guid(b928adac057347f4d9ca44216f1cb942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CAD/3604-0014-Omni_Shrinkwrap_1 v1.fbx using Guid(b928adac057347f4d9ca44216f1cb942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '240911b094d0b310dba33ac4574f8d44') in 0.192601 seconds
+  Import took 0.196488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-BlackItalic.ttf
+  artifactKey: Guid(f95147a9bab9fe649b8070170fa7ebd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-BlackItalic.ttf using Guid(f95147a9bab9fe649b8070170fa7ebd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34223db7cbe6478850677d1323c2e6b4') in 0.008696 seconds
+  Import took 0.012073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Crowd Animations/red team/Materials/RED_male_3_obj_Packed1_Diffuse.mat
+  artifactKey: Guid(8656c0d9e40a2314ab33d24f97454bd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/red team/Materials/RED_male_3_obj_Packed1_Diffuse.mat using Guid(8656c0d9e40a2314ab33d24f97454bd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46c09807df2c5f41dacf264c97f56f1c') in 0.008455 seconds
+  Import took 0.012081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/CAD/full field/scoop_bot_solid v4.fbx
+  artifactKey: Guid(0510913946c17c041ba29e3e2fcea1c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CAD/full field/scoop_bot_solid v4.fbx using Guid(0510913946c17c041ba29e3e2fcea1c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6426649a0ff060e63e141214d420306') in 0.518228 seconds
+  Import took 0.526608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Materials/Opaque(33,138,33).mat
+  artifactKey: Guid(b9671cf0732bebd41ba5226ee79d8918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Opaque(33,138,33).mat using Guid(b9671cf0732bebd41ba5226ee79d8918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb731e5dc09c9a1be718a9626d17f9fd') in 0.008649 seconds
+  Import took 0.012796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/ParticlesUnlit.mat
+  artifactKey: Guid(e823cd5b5d27c0f4b8256e7c12ee3e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/ParticlesUnlit.mat using Guid(e823cd5b5d27c0f4b8256e7c12ee3e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcc60868f769a043adf262d7e4341335') in 0.008390 seconds
+  Import took 0.012737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Materials/PlexiGlass.mat
+  artifactKey: Guid(abd9f30138b2d4c2a9a45518dee5fa03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/PlexiGlass.mat using Guid(abd9f30138b2d4c2a9a45518dee5fa03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed5446113cd40cc5910a316a83307978') in 0.009237 seconds
+  Import took 0.013091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Crowd Animations/blue team/Materials/male_2_obj_Packed0_Diffuse.mat
+  artifactKey: Guid(9992a392363b0044a98da8b605fa8bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/blue team/Materials/male_2_obj_Packed0_Diffuse.mat using Guid(9992a392363b0044a98da8b605fa8bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d4869ca1a1ab4412462416edf10a620') in 0.008887 seconds
+  Import took 0.012747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Crowd Animations/blue team/Materials/male_3_obj_Packed1_Diffuse.mat
+  artifactKey: Guid(c777c1f5f69b59c41b5811b692bae084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/blue team/Materials/male_3_obj_Packed1_Diffuse.mat using Guid(c777c1f5f69b59c41b5811b692bae084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ab6c7c46a07b42062a90503e32902f2') in 0.007835 seconds
+  Import took 0.011997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Materials/RedWobble.mat
+  artifactKey: Guid(fcf563b8a0fae2841a0013f24a281f62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/RedWobble.mat using Guid(fcf563b8a0fae2841a0013f24a281f62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ce1ababcc833e8eadaa16d508725b1f') in 0.008211 seconds
+  Import took 0.011530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Bold.ttf
+  artifactKey: Guid(3750c318f40cab44a97d3a81beaefeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Bold.ttf using Guid(3750c318f40cab44a97d3a81beaefeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f562508fb804a901e3e2b2db605e85c3') in 0.009103 seconds
+  Import took 0.012976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Stage Lights/stage assets/Materials/No Name.mat
+  artifactKey: Guid(d76eccc78a03cb948be0d7b91c4ccf4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stage Lights/stage assets/Materials/No Name.mat using Guid(d76eccc78a03cb948be0d7b91c4ccf4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5748ee3af02118e7b71af19b3de2dde') in 0.008472 seconds
+  Import took 0.012239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/CAD/am-3047_4inDuraOmniV2_Shrinkwrap_1 v2.fbx
+  artifactKey: Guid(99d9b5561ca0da144a303a0c78c06251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CAD/am-3047_4inDuraOmniV2_Shrinkwrap_1 v2.fbx using Guid(99d9b5561ca0da144a303a0c78c06251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6abc9d4859a8ef543fa16eebfa29682') in 0.015463 seconds
+  Import took 0.019484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Langar-Regular.ttf
+  artifactKey: Guid(6611d5c10babc1241b0decc885a3fa5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Langar-Regular.ttf using Guid(6611d5c10babc1241b0decc885a3fa5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fba4f3a97837b2eb8cf62093d225d1a0') in 0.009375 seconds
+  Import took 0.012989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Italic.ttf
+  artifactKey: Guid(c839255fc8f6b4b4d90bf8c1af9f9bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Italic.ttf using Guid(c839255fc8f6b4b4d90bf8c1af9f9bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4907b626b1dc4a9fbcc91f7de1ca060c') in 0.009166 seconds
+  Import took 0.012926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-ThinItalic.ttf
+  artifactKey: Guid(b2ea3b3f1765e544b9eb5bd1a93a91ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-ThinItalic.ttf using Guid(b2ea3b3f1765e544b9eb5bd1a93a91ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4491cd3b3eaf296696a9b55d87d102c7') in 0.009566 seconds
+  Import took 0.013224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Crowd Animations/blue team/Materials/Female_1_obj_Packed1_Diffuse.mat
+  artifactKey: Guid(d75b169fb409f3845ab535c495ff9172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/blue team/Materials/Female_1_obj_Packed1_Diffuse.mat using Guid(d75b169fb409f3845ab535c495ff9172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18d9162ad8663a3f95db204788932f85') in 0.008958 seconds
+  Import took 0.012924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Crowd Animations/red team/Materials/Female_Red_1_OBJ_Packed0_Diffuse.mat
+  artifactKey: Guid(5c9006dfb1fd78547b95c402b4f6b931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/red team/Materials/Female_Red_1_OBJ_Packed0_Diffuse.mat using Guid(5c9006dfb1fd78547b95c402b4f6b931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1582b3d88ff8152ed145d6ac9f752d4') in 0.008419 seconds
+  Import took 0.012360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56d7720262efdf055b255e762bf0834b') in 0.009956 seconds
+  Import took 0.013583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/CAD/2648SMooth_Shrinkwrap_2 v1.fbx
+  artifactKey: Guid(2f426b83eb357a645b0adb2d486d3ced) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CAD/2648SMooth_Shrinkwrap_2 v1.fbx using Guid(2f426b83eb357a645b0adb2d486d3ced) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4910c12321cf78ed8430daaaab3e7081') in 0.020007 seconds
+  Import took 0.023812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/CAD/AndyR_Shrinkwrap_1 v3.fbx
+  artifactKey: Guid(00ba4aab5e09edd4b9a08e91a4ddcc6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CAD/AndyR_Shrinkwrap_1 v3.fbx using Guid(00ba4aab5e09edd4b9a08e91a4ddcc6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da028b82b61477868fdebcea0b20b8e9') in 0.024749 seconds
+  Import took 0.028608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Crowd Animations/blue team/Materials/male_4_obj_Packed0_Diffuse.mat
+  artifactKey: Guid(c153e16667be5824288adf322079c522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/blue team/Materials/male_4_obj_Packed0_Diffuse.mat using Guid(c153e16667be5824288adf322079c522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8061de064735cdaf2430287671b98532') in 0.008432 seconds
+  Import took 0.012906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/CAD/full field/am-4301 ULTIMATE GOAL Full Game Set and Field v2.fbx
+  artifactKey: Guid(a903d504dc81c344c8d1d73e48d21485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CAD/full field/am-4301 ULTIMATE GOAL Full Game Set and Field v2.fbx using Guid(a903d504dc81c344c8d1d73e48d21485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59724d49f7c569772687ae4aa6483dc7') in 0.465029 seconds
+  Import took 0.475033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Medium.ttf
+  artifactKey: Guid(a51a3aebb43ac044989270407476b208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Medium.ttf using Guid(a51a3aebb43ac044989270407476b208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '222685bf15980364dc0027673e2bfefd') in 0.009836 seconds
+  Import took 0.014155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-BoldItalic.ttf
+  artifactKey: Guid(dfb97a9307a577a41bcacba34b9a7e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-BoldItalic.ttf using Guid(dfb97a9307a577a41bcacba34b9a7e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bf1607f0ef138d35bfd6b8ddd33e414') in 0.010193 seconds
+  Import took 0.014056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Crowd Animations/blue team/Materials/Female_1_obj_Packed0_Diffuse.mat
+  artifactKey: Guid(ba36257d037bc6f45917aa5a92f7e727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/blue team/Materials/Female_1_obj_Packed0_Diffuse.mat using Guid(ba36257d037bc6f45917aa5a92f7e727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1efba4ffe7c12b49f0f06291d313ba7') in 0.008537 seconds
+  Import took 0.012524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-LightItalic.ttf
+  artifactKey: Guid(5e63515167650a541b309ba3bfd4db3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-LightItalic.ttf using Guid(5e63515167650a541b309ba3bfd4db3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11e696a8b5dcec240a36fa5d3b1726fd') in 0.008742 seconds
+  Import took 0.012573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 92.635146 seconds.
+  path: Assets/Stage Lights/Stage Lighting.prefab
+  artifactKey: Guid(a6d7cded99839184980bcd0578007836) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stage Lights/Stage Lighting.prefab using Guid(a6d7cded99839184980bcd0578007836) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e43800664798a1a0c57359ebf1892389') in 0.015892 seconds
+  Import took 0.020853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 230.461162 seconds.
+  path: Assets/Materials/MatRobotType-1/Base.mat
+  artifactKey: Guid(4f65d42d25d7c7841b547a95579dd08c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/MatRobotType-1/Base.mat using Guid(4f65d42d25d7c7841b547a95579dd08c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c457fbecba95303daa69dfef5b3422f1') in 0.012032 seconds
+  Import took 0.016537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Crowd Animations/blue team/Materials/Male1_Obj_Packed1_Diffuse.mat
+  artifactKey: Guid(bce2407ff23d9ed4c97af4f60f21bae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/blue team/Materials/Male1_Obj_Packed1_Diffuse.mat using Guid(bce2407ff23d9ed4c97af4f60f21bae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3249cd2c18f8ed52691cfa5e052b1b1b') in 0.009529 seconds
+  Import took 0.013624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Materials/MatRobotType-1/Mec.mat
+  artifactKey: Guid(dc2c11501ce74a94cb9a097a10b1d059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/MatRobotType-1/Mec.mat using Guid(dc2c11501ce74a94cb9a097a10b1d059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80e9c19cc3cc7301dc0bc9b306bc04f5') in 0.009363 seconds
+  Import took 0.013416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/Crowd Animations/blue team/Materials/Male1_Obj_Packed0_Diffuse.mat
+  artifactKey: Guid(63f82ee49a8b19d4892159af729d053c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/blue team/Materials/Male1_Obj_Packed0_Diffuse.mat using Guid(63f82ee49a8b19d4892159af729d053c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc00ba2a5cde904d17b144710bb01902') in 0.008830 seconds
+  Import took 0.012557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Crowd Animations/red team/Materials/Female_Red_1_OBJ_Packed1_Diffuse.mat
+  artifactKey: Guid(0d95fe48db082224982b006ee0b47e1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/red team/Materials/Female_Red_1_OBJ_Packed1_Diffuse.mat using Guid(0d95fe48db082224982b006ee0b47e1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0fafc89cd996c6236a96b401c6a622a') in 0.011621 seconds
+  Import took 0.015608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Materials/Opaque(191,191,191).mat
+  artifactKey: Guid(c9a6d1b3c7217cf4caefbc7148a4d74a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Opaque(191,191,191).mat using Guid(c9a6d1b3c7217cf4caefbc7148a4d74a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2065649986ea1e87cf76d53bfbc7f701') in 0.010856 seconds
+  Import took 0.015481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Stage Lights/Materials/Light Base.mat
+  artifactKey: Guid(ba0299fc6eba95c4bac99698453e7992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stage Lights/Materials/Light Base.mat using Guid(ba0299fc6eba95c4bac99698453e7992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5eb9f712e7150963d35aed8ae6c3d80a') in 0.027336 seconds
+  Import took 0.032246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Crowd Animations/blue team/Materials/male_4_obj_Packed1_Diffuse.mat
+  artifactKey: Guid(8a6fef9b4a6e624499557ee6ec9a7951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/blue team/Materials/male_4_obj_Packed1_Diffuse.mat using Guid(8a6fef9b4a6e624499557ee6ec9a7951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dcbd7c785463c0e6c401db4ddf52f75') in 0.011515 seconds
+  Import took 0.016146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Crowd Animations/blue team/Materials/male_2_obj_Packed1_Diffuse.mat
+  artifactKey: Guid(9e08536dff1384c48acec269de80ed78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/blue team/Materials/male_2_obj_Packed1_Diffuse.mat using Guid(9e08536dff1384c48acec269de80ed78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5603dcc64574512e339cecc3785bc819') in 0.009565 seconds
+  Import took 0.013542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Stage Lights/Materials/defaultMaterialMat.mat
+  artifactKey: Guid(68dde45e5e6b2364f8238e517ce7b9cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stage Lights/Materials/defaultMaterialMat.mat using Guid(68dde45e5e6b2364f8238e517ce7b9cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c498905fd093ba711aa18195269d608d') in 0.021581 seconds
+  Import took 0.025490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Crowd Animations/blue team/Materials/male_3_obj_Packed0_Diffuse.mat
+  artifactKey: Guid(a5ef8ac444f7e514f9fcb01168b66de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/blue team/Materials/male_3_obj_Packed0_Diffuse.mat using Guid(a5ef8ac444f7e514f9fcb01168b66de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4008aabde3c1d428f66ca4446669911') in 0.009170 seconds
+  Import took 0.013156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Materials/Opaque(33,138,33).mat
+  artifactKey: Guid(b9671cf0732bebd41ba5226ee79d8918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Opaque(33,138,33).mat using Guid(b9671cf0732bebd41ba5226ee79d8918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b256d99b1fb47e61c73e85d0fb0a3f8e') in 0.010500 seconds
+  Import took 0.014552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Crowd Animations/blue team/Materials/male_2_obj_Packed0_Diffuse.mat
+  artifactKey: Guid(9992a392363b0044a98da8b605fa8bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/blue team/Materials/male_2_obj_Packed0_Diffuse.mat using Guid(9992a392363b0044a98da8b605fa8bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1cd70c870c606311df6e7b5086756ee') in 0.009177 seconds
+  Import took 0.012913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Crowd Animations/blue team/Materials/male_3_obj_Packed1_Diffuse.mat
+  artifactKey: Guid(c777c1f5f69b59c41b5811b692bae084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/blue team/Materials/male_3_obj_Packed1_Diffuse.mat using Guid(c777c1f5f69b59c41b5811b692bae084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2ed1e121fc4c30ca1fe8893cd848c86') in 0.010412 seconds
+  Import took 0.014278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Stage Lights/stage assets/Materials/No Name.mat
+  artifactKey: Guid(d76eccc78a03cb948be0d7b91c4ccf4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stage Lights/stage assets/Materials/No Name.mat using Guid(d76eccc78a03cb948be0d7b91c4ccf4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '524b9907facb504db2404aa164738c8b') in 0.019543 seconds
+  Import took 0.023977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Crowd Animations/blue team/Materials/Female_1_obj_Packed1_Diffuse.mat
+  artifactKey: Guid(d75b169fb409f3845ab535c495ff9172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/blue team/Materials/Female_1_obj_Packed1_Diffuse.mat using Guid(d75b169fb409f3845ab535c495ff9172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7774b2a43ec21e50bf9f10a4070438b') in 0.009296 seconds
+  Import took 0.013632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Crowd Animations/red team/Materials/Female_Red_1_OBJ_Packed0_Diffuse.mat
+  artifactKey: Guid(5c9006dfb1fd78547b95c402b4f6b931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/red team/Materials/Female_Red_1_OBJ_Packed0_Diffuse.mat using Guid(5c9006dfb1fd78547b95c402b4f6b931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8aa8fe4cb82ebd3f72ba489baf2ebd2') in 0.009348 seconds
+  Import took 0.013796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Crowd Animations/blue team/Materials/male_4_obj_Packed0_Diffuse.mat
+  artifactKey: Guid(c153e16667be5824288adf322079c522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/blue team/Materials/male_4_obj_Packed0_Diffuse.mat using Guid(c153e16667be5824288adf322079c522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4863e2eac8aea53fe10cc4d02f1b3b3a') in 0.008887 seconds
+  Import took 0.012851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Crowd Animations/blue team/Materials/Female_1_obj_Packed0_Diffuse.mat
+  artifactKey: Guid(ba36257d037bc6f45917aa5a92f7e727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crowd Animations/blue team/Materials/Female_1_obj_Packed0_Diffuse.mat using Guid(ba36257d037bc6f45917aa5a92f7e727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2075f71f47b113894361568a0a156053') in 0.010153 seconds
+  Import took 0.014186 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
